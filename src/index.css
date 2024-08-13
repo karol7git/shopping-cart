@@ -1,0 +1,6 @@
+body {
+  background-color: #2f3640; /* Color de fondo oscuro */
+  color: #fff; /* Color del texto para contraste con el fondo oscuro */
+  margin: 0; /* Elimina márgenes por defecto */
+  font-family: "Jost", sans-serif; /* Fuente general opcional */
+}
